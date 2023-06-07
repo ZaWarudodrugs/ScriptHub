@@ -1,4 +1,3 @@
- loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a454a63ba4ef7c58495367d38ce729fa.lua"))()
     local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/Splix"))()
 
     local window = library:new({textsize = 13.5,font = Enum.Font.RobotoMono,name = "ZiasHub",color = Color3.fromRGB(225,58,81)})
